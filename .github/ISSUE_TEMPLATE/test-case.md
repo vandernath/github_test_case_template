@@ -27,5 +27,5 @@ Tell the end user what is supposed to happen once they have completed the steps 
 This field is filled by testers and describes what actually happened. Example: the dashboard is loading indefinitely.
 
 **Status**
-- [] Pass
-- [] Fail
+- [ ] Pass
+- [ ] Fail
